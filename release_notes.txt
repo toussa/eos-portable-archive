@@ -1,3 +1,10 @@
+IMPORTANT: 
+
+This is the last release from me as EOS employee. I plan to contribute all of this
+work to the official boost libraries distribution and will continue to support users. 
+Francois Mauger joined me recently and already added a valuable tutorial for you!
+
+
 Dear user,
 
 I am proud to announce the very first release of our portable_binary_[io]archive 
@@ -8,7 +15,7 @@ a lot of people were interested in portable binary archives, so here you are -
 give it a try and let me know what you think about it!
 
 We rely heavily on boost::serialization and really appreciate the amount of time 
-and knowledge that flew into it. By publishing this small missing piece we hope 
+and knowledge that went into it. By publishing this small missing piece we hope 
 to contribute our mite to this great library.
 
 The work extends the portable binary example which was done by Robert Ramey and 
@@ -25,4 +32,5 @@ Munich, End of 2007
 
 --
 christian.pfligersdorffer@eos.info
+christian.pfligersdorffer@gmx.at
 http://www.eos.info

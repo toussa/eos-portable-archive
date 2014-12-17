@@ -1,7 +1,10 @@
 Changelog:
 
-01.04.2011	4.2	Ported to boost versions up to 1.46.1.
-			Allow serialization of inf and nan values.
+26.06.2012    5.0    Ported to boost versions up to 1.49.
+            Added support for wstring, added tutorial by Francois Mauger.
+
+01.04.2011    4.2    Ported to boost versions up to 1.46.1.
+            Allow serialization of inf and nan values.
 
 17.12.2009	4.1	Ported to boost versions up to 1.41.
 
